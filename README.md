@@ -2,7 +2,7 @@
 
 ## Étape : Initialisation des données
 <img width="923" height="489" alt="Capture d&#39;écran 2025-10-31 201151" src="https://github.com/user-attachments/assets/97d80cc8-bd7c-48b0-bba4-d778bfdadcc5" />
-**Accès à la console H2 via l'URL http://localhost:8080/h2-console :**
+**Accès à la console H2 via l'URL http://localhost:8080/h2-console:**
 <img width="848" height="421" alt="Capture d&#39;écran 2025-10-31 201138" src="https://github.com/user-attachments/assets/9106a275-8abd-4fec-a35c-d8b9effdf797" />
 
 ---
@@ -10,7 +10,7 @@
 ## Étape : Intégration de Swagger dans un Projet Spring Boot
 <img width="931" height="453" alt="Capture d&#39;écran 2025-10-31 005205" src="https://github.com/user-attachments/assets/bea811fe-a82c-4965-8e6a-ff176c31a9db" />
 <img width="960" height="476" alt="Capture d&#39;écran 2025-10-31 005236" src="https://github.com/user-attachments/assets/38ddf419-fa9d-4555-9fe2-e5614eb9cf06" />
-**Interface Swagger OpenAPI definition :**
+**Interface Swagger OpenAPI definition:**
 <img width="917" height="499" alt="Capture d&#39;écran 2025-10-31 005457" src="https://github.com/user-attachments/assets/3eea12a4-5c98-4049-b73c-d03a873c3da7" />
 
 ---
@@ -35,6 +35,7 @@
 ****POST****<img width="631" height="330" alt="Capture d&#39;écran 2025-10-31 203055" src="https://github.com/user-attachments/assets/ab901635-bd5e-41f9-864b-6b2a63ee3e94" />
 ***Réponse en JSON pour l'endpoint /banque/comptes***
 ****GET****<img width="688" height="374" alt="Capture d&#39;écran 2025-10-31 203357" src="https://github.com/user-attachments/assets/4f3702b6-0fbb-4d32-bc71-bf5865989818" />
+
 
 
 
