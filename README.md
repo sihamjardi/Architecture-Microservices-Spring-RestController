@@ -38,7 +38,9 @@
 <img width="628" height="368" alt="Capture d&#39;écran 2025-10-31 201944" src="https://github.com/user-attachments/assets/0247b6c1-2e4c-453b-850d-b3efae0f67d9" />
 
 **g/ Requête DELETE pour supprimer un compte**
-<img width="634" height="316" alt="Capture d&#39;écran 2025-10-31 202009" src="https://github.com/user-attachments/assets/18c6800e-d5e1-4c06-840a-9411ddf58474" />
+<img width="634" height="316" alt="Capture d&#39;écran 2025-10-31 202009" src="https://github.com/user-attachments/assets/8d928fda-2701-4574-b775-e710e37ffc47" />
+
+
 
 **h/ Tests avec SoapUI**
 
@@ -49,6 +51,7 @@
 ***Réponse en JSON pour l'endpoint /banque/comptes***
 
 ****GET****<img width="688" height="374" alt="Capture d&#39;écran 2025-10-31 203357" src="https://github.com/user-attachments/assets/4f3702b6-0fbb-4d32-bc71-bf5865989818" />
+
 
 
 
