@@ -46,11 +46,14 @@
 
 ***Réponse en XML pour l'endpoint /banque/comptes***
 
-****POST****<img width="631" height="330" alt="Capture d&#39;écran 2025-10-31 203055" src="https://github.com/user-attachments/assets/ab901635-bd5e-41f9-864b-6b2a63ee3e94" />
+****POST****
+<img width="631" height="330" alt="Capture d&#39;écran 2025-10-31 203055" src="https://github.com/user-attachments/assets/ab901635-bd5e-41f9-864b-6b2a63ee3e94" />
 
 ***Réponse en JSON pour l'endpoint /banque/comptes***
 
-****GET****<img width="688" height="374" alt="Capture d&#39;écran 2025-10-31 203357" src="https://github.com/user-attachments/assets/4f3702b6-0fbb-4d32-bc71-bf5865989818" />
+****GET****
+<img width="688" height="374" alt="Capture d&#39;écran 2025-10-31 203357" src="https://github.com/user-attachments/assets/4f3702b6-0fbb-4d32-bc71-bf5865989818" />
+
 
 
 
